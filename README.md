@@ -6,7 +6,7 @@ The functionality of the app is to test the user's knowledge about computer hard
 
 ## Run
 Run on android by installing the apk file.
-Run on windows by downloading the [Windows Build folder](./Windows\ Build) and running the .exe file.
+Run on windows by downloading the Windows Build folder and running the .exe file.
 
 ## Screehshots
 ![Motherboard](https://imgur.com/OczYrCh.png)   
