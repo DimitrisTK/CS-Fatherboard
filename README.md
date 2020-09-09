@@ -10,6 +10,8 @@ It has two difficulty modes: "Beginner" and "Expert". In the Beginner mode, the 
 ## Run
 Run on android by installing the apk file.  
 Run on windows by downloading the Windows Build folder and running the .exe file.
+The project's source files are not available for public distribution
+
 
 ## Screehshots
 ![Motherboard](https://imgur.com/OczYrCh.png)   
@@ -18,4 +20,5 @@ Run on windows by downloading the Windows Build folder and running the .exe file
 
 ![Hardware](https://imgur.com/xRkrD9s.jpg)  
 
-* The project's files are not available for public distribution
+
+Collaborator: Sinjari Tedi
