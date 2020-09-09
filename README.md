@@ -5,7 +5,7 @@ CS Fatherboard is a project application created with [Unity platform](https://un
 The functionality of the app is to test the user's knowledge about computer hardware.
 
 ## Run
-Run on android by installing the apk file.
+Run on android by installing the apk file.  
 Run on windows by downloading the Windows Build folder and running the .exe file.
 
 ## Screehshots
